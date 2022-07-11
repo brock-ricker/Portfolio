@@ -13,6 +13,7 @@ Summary
   * Distribution of "starter" scores at each position
 
 * Implemented ML models to make predictions about individual player performance.
+
 | Model | R2 | MAE | MSE | RMSE |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | GBR_MAE | 0.4464 | 4.25 | 37.97 | 6.16 |
