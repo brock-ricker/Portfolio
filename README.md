@@ -32,3 +32,12 @@ Summary
 * Implemented Random Forest Model to predict if a shopping session would end in a purchase (1=Yes, 0 = No)
 ![image](https://user-images.githubusercontent.com/99829862/178316756-60bcbdc4-18b3-4592-87ef-67367eecffec.png)
   * Confusion matrix for Random Forest Model.
+  
+# [Project 3: Food_Sales_Predictions] (https://github.com/brock-ricker/food_sales_predictions)
+
+Summary
+---
+* Analyzed sales data from 10 store locations in 3 different sizes, and 4 outlet type categories.
+* Predicted the total sales in dollars of a variety of items using a Decision Tree Regressor.
+ * R2: 0.5950, MAE: 737.63, MSE: 1,117,324.23, RMSE: 1,057.04
+
