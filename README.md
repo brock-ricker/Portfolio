@@ -33,7 +33,7 @@ Summary
 ![image](https://user-images.githubusercontent.com/99829862/178316756-60bcbdc4-18b3-4592-87ef-67367eecffec.png)
   * Confusion matrix for Random Forest Model.
   
-# [Project 3: Food_Sales_Predictions] (https://github.com/brock-ricker/food_sales_predictions)
+# [Project 3: Food_Sales_Predictions](https://github.com/brock-ricker/food_sales_predictions)
 
 Summary
 ---
