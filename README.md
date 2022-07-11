@@ -12,6 +12,8 @@ Summary
 ![image](https://user-images.githubusercontent.com/99829862/178310349-d1f9e728-06e5-4cb8-a297-4f147048f94e.png)
   * Distribution of "starter" scores at each position
 
-* Implemented ML models to make predictions about individual player performance and draft pick value.
-![image](https://user-images.githubusercontent.com/99829862/178310549-66084eb6-ce05-45d9-b025-2a3e023c65c6.png)
-  * Confusion matrix for good_score/bad_score
+* Implemented ML models to make predictions about individual player performance.
+| Model | R2 | MAE | MSE | RMSE |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| GBR_MAE | 0.4464 | 4.25 | 37.97 | 6.16 |
+| GBR_RMSE | 0.4682 | 4.45 | 36.48 | 6.04 |
