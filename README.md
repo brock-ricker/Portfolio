@@ -1,4 +1,4 @@
-# Project 1: Fantasy Football
+# [Project 1: Fantasy Football](https://github.com/brock-ricker/fantasy_football)
 
 This project is a work in progress and is still being updated regularly as I build more ML models and implement more database features.
 
