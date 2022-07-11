@@ -27,8 +27,8 @@ Summary
 
 * Performed customer segmentation based on web browsing data.
 ![image](https://user-images.githubusercontent.com/99829862/178315857-de2b5a09-7a43-4ee1-afba-e6434eae4339.png)
- * Mean values for a selection of features, by customer segment.
+  * Mean values for a selection of features, by customer segment.
 
 * Implemented Random Forest Model to predict if a shopping session would end in a purchase (1=Yes, 0 = No)
 ![image](https://user-images.githubusercontent.com/99829862/178316756-60bcbdc4-18b3-4592-87ef-67367eecffec.png)
- * Confusion matrix for Random Forest Model.
+  * Confusion matrix for Random Forest Model.
