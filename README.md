@@ -1,3 +1,5 @@
+**Welcome!** to my Data Science Portfolio. Below you will find brief summaries on all my projects, to view the projects in more depth, please go to corresponding repositories by clicking the project name hyperlink.
+
 # [Project 1: Fantasy Football](https://github.com/brock-ricker/fantasy_football)
 
 This project is a work in progress and is still being updated regularly as I build more ML models and implement more database features.
