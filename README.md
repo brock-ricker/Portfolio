@@ -21,6 +21,17 @@ Summary
 | GBR_MAE | 0.4464 | 4.25 | 37.97 | 6.16 |
 | GBR_RMSE | 0.4682 | 4.45 | 36.48 | 6.04 |
 
+Player and Draft Pick Evaluator
+---
+By analyzing my fantasy league data, I created two metrics for evaluation of players and draft picks (explained in-depth on project page):
+* points above median
+* start types
+
+Using these two metrics I created an evaluation tool with output like below:
+![image](https://user-images.githubusercontent.com/99829862/190951755-381385b3-918e-4f15-8900-c7e1f6bb6a0a.png)
+
+The web app version can be found [here](https://fall-is-coming.vercel.app/compare)
+
 # [Project 2: Online Shoppers Purchasing Intent](https://github.com/brock-ricker/Online-Shoppers-Purchasing-Intent)
 
 Summary
